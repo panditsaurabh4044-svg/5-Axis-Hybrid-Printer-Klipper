@@ -8,7 +8,7 @@ This platform operates as a **true hybrid system**. It functions flawlessly as a
 
 ## 🤝 Attribution & Inspiration
 
-The mechanical foundation of this printer—specifically the core R-Theta polar bed and the tilting nozzle mechanism—is heavily based on the incredible open-source work of **Joshua Bird (jyjblrd)** and his [Core-R-Theta-4-Axis-Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer). 
+The mechanical foundation of this printer—specifically the core R-Theta polar bed and the tilting nozzle mechanism is heavily based on the incredible open-source work of **Joshua Bird (jyjblrd)** and his [Core-R-Theta-4-Axis-Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer). 
 
 This repository builds upon that core concept by introducing a physical linear Y-axis, updating hardware tolerances for standard assembly, and porting the entire kinematic system from RepRapFirmware/Duet3D over to Klipper using a custom XBY kinematics module.
 

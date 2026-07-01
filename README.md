@@ -16,6 +16,13 @@ This repository builds upon that core concept by introducing a physical linear Y
 
 <img width="1280" height="1112" alt="123" src="https://github.com/user-attachments/assets/2551105e-028e-4eff-bab2-d1ccade12c10" />
 
+<img width="654" height="368" alt="VID-20260701-WA0025(1)" src="https://github.com/user-attachments/assets/938ceeca-2dd7-4f9f-99e0-a2669799d34b" />
+<img width="654" height="368" alt="VID-20260424-WA0002(1)" src="https://github.com/user-attachments/assets/ecb51159-1d59-41b6-a7f4-15d8dde4b40d" />
+<img width="368" height="654" alt="20260609_154717(1)" src="https://github.com/user-attachments/assets/36b37057-f62a-4854-ab9d-b2751b215bce" />
+<img width="654" height="368" alt="20260429_011418(1)" src="https://github.com/user-attachments/assets/994fb599-1811-49c8-a579-24b842def79f" />
+<img width="654" height="368" alt="20260426_021032(1)" src="https://github.com/user-attachments/assets/33afadea-8bbc-4923-a7b6-b129320488c8" />
+<img width="654" height="368" alt="20260424_005140(1)" src="https://github.com/user-attachments/assets/dd15b8f1-70ad-4c4e-b735-9c037a12f894" />
+<img width="654" height="368" alt="20260418_051309(1)" src="https://github.com/user-attachments/assets/0fd1f904-88fd-426e-aa6e-e6eedefce322" />
 
 
 

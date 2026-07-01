@@ -14,6 +14,11 @@ This repository builds upon that core concept by introducing a physical linear Y
 
 ---
 
+<img width="1280" height="1112" alt="123" src="https://github.com/user-attachments/assets/2551105e-028e-4eff-bab2-d1ccade12c10" />
+
+
+
+
 ## 🚀 Key Engineering & Firmware Enhancements
 
 ### 1. Kinematic Decoupling & Expanded Print Area
